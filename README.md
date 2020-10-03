@@ -16,8 +16,9 @@ O que fiz até agora:
 - Criei um projeto react na mão mesmo (não sei o motivo de gostar de fazer isso)
 - Adicionei a biblioteca styled components (mesmo que seja só uma div eu adoro utilizá-la <3)
 
-### Como utilizar?
+## Como utilizar?
 
 1. O primeiro passo é criar adquiri uma **API KEY** de desenvolvedor, caso contrário não vai conseguir ver o mapa em funcionamento. Você pode ver a documentação oficial [aqui](https://developers.google.com/maps/documentation/javascript/overview?hl=pt).
 2. Com sua **API KEY** em mãos, você pode baixar o projeto e no arquivo `public/index.html` inserir o sua API KEY no script do mapa.
 3. Agora, pode instalar as dependências com `yarn` e iniciar com `yarn start`
+4. Prontinho! Agora pode abrir o arquivo `src/components/Map/index.jsx` e ver os comentários, espero que ajude ;)
